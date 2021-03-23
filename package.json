@@ -1,5 +1,5 @@
 {
-  "name": "@matilha/vue-slider-component",
+  "name": "@vinimart/vue-slider-component",
   "version": "1.0.0",
   "description": "A highly customized slider component fork with Cormora Theme",
   "author": "NightCatSama <642163903@qq.com>",
@@ -64,7 +64,7 @@
     "pre-commit": "lint-staged",
     "commit-msg": "commitlint -e $GIT_PARAMS"
   },
-  "homepage": "https://github.com/NightCatSama/vue-slider-component",
+  "homepage": "https://github.com/Vinimart/vue-slider-component",
   "keywords": [
     "vue",
     "slider",
@@ -81,7 +81,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NightCatSama/vue-slider-component.git"
+    "url": "git+https://github.com/Vinimart/vue-slider-component.git"
   },
   "typings": "./typings/index.d.ts"
 }
