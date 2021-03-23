@@ -1,6 +1,6 @@
 {
   "name": "@matilha/vue-slider-component",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A highly customized slider component fork with Cormora Theme",
   "author": "NightCatSama <642163903@qq.com>",
   "scripts": {
